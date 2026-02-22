@@ -1,0 +1,8 @@
+Performing one time database migration, may take a few minutes...
+sqlite-migration:done
+Database migration complete.
+[0m
+
+[0m> build · big-pickle
+[0m✱ [0mGlob "**/*.js"[90m 0 matches[0m
+[0m✱ [0mGlob "**/package.json"[90m 0 matches[0m
